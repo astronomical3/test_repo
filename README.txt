@@ -8,4 +8,4 @@ Just be sure to make pull requests when ready to merge a branch with orphantest.
 
 If you do not want to work on this project, we still have the main project. Just checkout the main branch.
 
-Lastly, when branching off of orphantest from now on, use the orphantest name as a namespace, followed by a /, and then your branch name, so I can see what exact project you are working on.
+Lastly, when branching off of orphantest from now on, use the orphantest name as a namespace, followed by a _, and then your branch name, so I can see what exact project you are working on.
