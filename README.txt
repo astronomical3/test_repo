@@ -1,4 +1,4 @@
-Welcome to Hilarious Gibberish!
+Welcome to the main project of Hilarious Gibberish!
 
 It's just a bunch of nonsense and gibberish, and I love it for what it is.
 
