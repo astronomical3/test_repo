@@ -1,0 +1,8 @@
+This is another totally new page.
+This page will provide even more information for the orphantest project.
+
+The whole purpose of the orphantest project was to see if I could create an orphan branch, and then do other things with the branch, including, but not limited to, branching off of it, organizing branches, merging branches, rebasing branches, etc.
+
+Well, the great news is yes, you can do all of that with an orphan branch, and basically have an alternate project alongside the main project in the same repo, or overwrite the Git history of a project with this branch by deleting all branches and files that are branched off of the original main/master branch.
+
+And also, there are other great things that can come with this.  For instance, if you create an orphan branch, but do not know yet what to put into the branch, you can use `git commit --allow-empty -m <message>` to initialize the branch without the need of a file!  How cool is that?  I wonder if you could do the same thing when you create and initialize a whole new repo and start on main/master.  I think teaching people that command and bringing that command to light would be such a great idea for future Git and GitHub tutorials.
