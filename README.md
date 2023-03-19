@@ -8,3 +8,9 @@ Testing out another project
 - No derogatory slurs -- no oppressive language of any kind
 - No mocking people with mental health problems
 - We will be putting branch protections requiring pull requests on the home branch for this project, `new_project2`.  Therefore, always use pull requests to merge a branch into `new_project2`.
+
+## Written By
+Victoria Brunner (Owner of the Test_Repo repository)
+
+## Date Written
+March 19, 2023
