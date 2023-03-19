@@ -10,6 +10,7 @@ Testing out another project
 - Be sure to create new branches using `new_project2_` as a prefix to your branch.  It just makes it easier for me to see which project you are working on, since we have a `main` and `orphantest` branch.
 - We will be putting branch protections requiring pull requests on the home branch for this project, `new_project2`.  Therefore, always use pull requests to merge a branch into `new_project2`.
 - Create a pull request as soon as you create your branch.  When you think you are done with the branch and want a peer to review the content, just ping them on your GH pull request and/or DM.
+- When creating pull requests, be sure you use `new_project2` as the base branch, and your branch as the compare branch.
 
 ## Written By
 Victoria Brunner (Owner of the Test_Repo repository)
