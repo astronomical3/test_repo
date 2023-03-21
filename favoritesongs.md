@@ -12,6 +12,13 @@
 
 ## R&B
 
+* He Wasn't Man Enough
+* Runnin'
+* Forget Me Nots
+* Be Happy
+* Car Wash (the Shark Tale version)
+* Yes
+
 ## Motown
 
 * I Want You Back
