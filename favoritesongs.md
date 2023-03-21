@@ -78,6 +78,16 @@
 
 ## Disco
 
+* Pop Muzik
+* Stayin' Alive
+* More Than a Woman
+* Night Fever
+* The Hustle
+* Best of My Love
+* Disco Inferno
+* Right Back Where We Started From
+* Love Rollercoaster
+
 ## Techno
 
 ## Gospel
