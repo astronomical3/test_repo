@@ -22,6 +22,8 @@
 * The Spirit of Radio
 * Tom Sawyer
 * Subdivisions
+* Heat of the Moment
+* Wildest Dreams
 
 ## Pop
 
