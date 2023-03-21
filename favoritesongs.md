@@ -14,6 +14,17 @@
 
 ## Motown
 
+* I Want You Back
+* Come See About Me
+* Stop!  In the Name of Love
+* Baby Love
+* Where Did Our Love Go
+* How Sweet It Is (To Be Loved by You)
+* ABC
+* Abraham, Martin, and John
+* What's Going On
+* My Girl
+
 ## Movies & Shows
 
 - Star Wars Theme
