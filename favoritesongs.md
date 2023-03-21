@@ -2,6 +2,27 @@
 
 ## Rock
 
+* Hello It's Me
+* I Saw the Light
+* A Dream Goes on Forever
+* Real Man
+* Be Nice to Me
+* Walk This Way
+* Tiny Dancer
+* Do It Again
+* All Along the Watchtower
+* I Just Wanna Stop
+* Eclipse
+* Brain Damage
+* Speak to Me (Breathe)
+* Wish You Were Here
+* Shine On You Crazy Diamond
+* Time of the Season
+* Limelight
+* The Spirit of Radio
+* Tom Sawyer
+* Subdivisions
+
 ## Pop
 
 * Don't You Want Me
