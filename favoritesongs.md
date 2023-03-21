@@ -95,3 +95,15 @@
 * Pump Up the Jam
 
 ## Gospel
+
+* Walking
+* Get Up
+* God In Me
+* Heaven
+* Somebody
+* Thankful
+* Too Faithful
+* I Forgive Me
+* Fragrance to Fire
+* Your Spirit
+* You Must Break
