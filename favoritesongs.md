@@ -75,3 +75,9 @@
 
 * Chicken Dance song
 * Ode to Joy
+
+## Disco
+
+## Techno
+
+## Gospel
